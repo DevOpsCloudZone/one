@@ -28,8 +28,8 @@
 	<distributionManagement>
 		 
 		<repository>
-		    <id>nexus-release</id>
-		    <url>http://34.201.38.173:8081/repository/Nexus/</url>
+		    <id>nexus</id>
+		    <url>http://34.201.38.173:8081/repository/nexus-release/</url>
 		</repository>
   	</distributionManagement>
 	
