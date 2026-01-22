@@ -4,13 +4,13 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>8.7.9</version>
+	<version>8.8.1</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://18.232.146.30:9000/</sonar.host.url>
+		<sonar.host.url>http://100.52.183.117:9000/</sonar.host.url>
 
 	</properties>
 	<dependencies>
@@ -29,7 +29,7 @@
 		 
 		<repository>
 		    <id>nexus</id>
-		    <url>http://18.232.144.81:8081/repository/mynexusrepo/</url>
+		    <url>http://44.197.194.111:8081/repository/mynexusrepo/</url>
 		</repository>
   	</distributionManagement>
 	
